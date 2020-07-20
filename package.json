@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "glob": "^7.1.6",
     "lighthouse": "^6.1.1",
     "yargs": "^15.4.1"
   }
