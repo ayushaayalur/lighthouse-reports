@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "glob": "^7.1.6",
-    "lighthouse": "^6.1.1",
+    "lighthouse": "^9.6.7",
     "yargs": "^15.4.1"
   }
 }
